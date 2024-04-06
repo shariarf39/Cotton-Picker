@@ -1,0 +1,1 @@
+I just want to make a app that has a function to work out maximum throughput of a cotton picker using a calculator like app So the equation is Target bales per hour =( speed*width*yeild) /10 Then I want to make a place to work out target speed it’s equation is speed speed= (target bales per hour* 10) / ( width* yeild)
